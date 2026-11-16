@@ -20,3 +20,10 @@ python3.11 -m venv .venv
 The command saves computed tables, plots, and executed notebooks in `generated/`. The notebooks can also be run individually in a Jupyter interface using this Python environment.
 
 The CSVs in `data/` contain aggregate fit or measurement metrics. Partition, seed, and measurement identifiers describe the experiment. Participant-level materials are governed by the DAIC-WOZ data-use terms. Eligible researchers can apply to the USC Institute for Creative Technologies (USC ICT) for access to the original DAIC-WOZ corpus. Training and hardware acquisition are described in the manuscript and use the original data and device. [DAIC-WOZ access](https://dcapswoz.ict.usc.edu/)
+
+## License
+
+The [MIT License](LICENSE) applies only to the analysis notebooks in
+`notebooks/` and the `run_notebooks.py` script. The aggregate CSVs in
+`data/` are provided for verification of the study results. Access to
+the original DAIC-WOZ corpus remains subject to USC ICT’s data-use terms.
