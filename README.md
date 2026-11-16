@@ -1,4 +1,4 @@
-# DAIC-WOZ classifiers on Akida — reviewer materials
+# DAIC-WOZ classifiers on Akida
 
 Four Jupyter notebooks reproduce the numerical analyses from the saved aggregate metrics. The notebooks run on an ordinary computer with Python 3.11.
 
